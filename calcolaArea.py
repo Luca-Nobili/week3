@@ -47,4 +47,4 @@ perimetro();
 #aggiunta di un elif per permettere all utente di gestire l' uscita dal programma dopo aver finito le sue operazioni
 #per quanto riguarda il perimetro del cerchio ho aggiunto la variabile pigreco visto che il suo valore non cambia mai
 #essendo una costante per il calcolo del perimetro del cerchio 
-#l'uso del float permette all'utente di inserire numeri decimali
+#l'uso del float permette all'utente di inserire numeri decimali e anche il risultato puo essere in decimali
