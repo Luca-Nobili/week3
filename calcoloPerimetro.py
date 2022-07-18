@@ -1,6 +1,6 @@
 def perimetro():
-	scelta=-1
-	while(scelta != 0):
+	scelta=0
+	while(scelta != 5):
 	     
 		print("Il programma calcola il perimetro di una fugura geometrica")
 		print("""
